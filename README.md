@@ -29,14 +29,14 @@
 
 ## 📌 Featured Projects  
 
-### 📷 **[Face Recognition-based Image Sorter]**  
-🔹 Uses **facial_recognition** to generate, extract and store facial embeddings from images.
-🔹 Groups similar faces together based on similarity index of facial embeddings.
+### 📷 **Face Recognition-based Image Sorter**  
+-🔹 Uses **facial_recognition** to generate, extract and store facial embeddings from images.
+-🔹 Groups similar faces together based on similarity index of facial embeddings.
 
-### 📝 **[English-to-German Translator](https://github.com/yourrepo)**  
-🔹 Transformer-based **language translation model**  
-🔹 Built entirely from scratch using Pytorch implementing the architecture proposed in the paper "Attention is all you need!"
-🔹 Achieved **BLEU Score: 53.58**  
+### 📝 **[English-to-German Translator](https://github.com/Translator)**  
+-🔹 Transformer-based **language translation model**  
+-🔹 Built entirely from scratch using Pytorch implementing the architecture proposed in the paper "Attention is all you need!"
+-🔹 Achieved **BLEU Score: 53.58**  
 
 ---
 ## 📫 Connect with Me  
