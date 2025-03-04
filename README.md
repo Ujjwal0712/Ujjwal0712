@@ -1,49 +1,46 @@
 # 👋 Hi, I'm Ujjwal Sharma!  
 
-🎯 **| Computer Vision & NLP Enthusiast |**
-
-I love pushing the boundaries of **AI & Machine Learning**, especially in areas like **Computer Vision, NLP, and LLM fine-tuning**.I'm always excited about building and optimizing models that solve real-world problems.  
+🎯 I am a passionate Machine Learning and Computer Vision enthusiast, actively working on innovative projects spanning deep learning, NLP, and AI applications. I love building AI applications and models and exploring real-world applications of advanced ML techniques.
 
 ## 🚀 About Me  
-🔬 Currently researching **LLMs, memory embeddings, and efficient AI deployment.**  
-📚 Passionate about **Transformer models, Vision Transformers, and AI-assisted applications.**  
-🔧 Enjoy optimizing deep learning models for **better accuracy & efficiency.**  
-🎮 In my free time, I play **FC 25**  
+🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una
+🔍 Currently exploring Large Language Models (LLMs), Computer Vision, and AI Agents.  
+💬 Open to discussions on ML, AI, NLP, Deep Learning 
+📫 Reach me at [sharmaujjwal0712@gmail.com].
 
 ## 🛠️ Tech Stack  
-### **Machine Learning & AI**  
-- 🤖 **Deep Learning**: PyTorch, TensorFlow, Keras  
+### **Programming Languages:**
+- Python
+- C++
+- JavaScript
+- Kotlin
+  
+### **Machine Learning & AI Frameworks:** 
+- 🤖 PyTorch, TensorFlow, Keras  
 - 🎭 **Computer Vision**: OpenCV, YOLO, ResNet, Vision Transformers (ViTs)  
-- 🧠 **NLP**: Transformers, LangChain, LlamaIndex  
+- 🧠 **NLP**: Transformers, LangChain
 
 ### **Other Interests**  
-- 🎮 Gaming
--    Sketching
--    Travelling
-
-
+- Gaming
+- Sketching
+- Travelling
+  
 ---
 
 ## 📌 Featured Projects  
 
-### 📷 **[Face Recognition-based Image Sorter](https://github.com/yourrepo)**  
-🔹 Uses **CNN-based facial recognition** to group similar faces  
-🔹 Supports **automated image classification & retrieval**  
+### 📷 **[Face Recognition-based Image Sorter]**  
+🔹 Uses **facial_recognition** to generate, extract and store facial embeddings from images.
+🔹 Groups similar faces together based on similarity index of facial embeddings
 
 ### 📝 **[English-to-German Translator](https://github.com/yourrepo)**  
 🔹 Transformer-based **language translation model**  
 🔹 Achieved **BLEU Score: 53.58**  
 
-### 🎭 **[Change Detection using ELGCNet](https://github.com/yourrepo)**  
-🔹 Research-driven **change detection model** for real-world applications  
-🔹 **Enhancing ELGCNet architecture for better accuracy**  
-
 ---
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-sharma/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/UjjwalSharma)   
-
-📩 **Email**: [sharmaujjwal0712@gmail.com]  
 
 ---
 
