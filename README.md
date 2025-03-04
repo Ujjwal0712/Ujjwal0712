@@ -3,10 +3,10 @@
 🎯 I am a passionate Machine Learning and Computer Vision enthusiast, actively working on innovative projects spanning deep learning, NLP, and AI applications. I love building AI applications and models and exploring real-world applications of advanced ML techniques.
 
 ## 🚀 About Me  
-🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una.
-🔍 Currently exploring Large Language Models (LLMs), Computer Vision, and AI Agents.  
-💬 Open to discussions on ML, AI, NLP, Deep Learning.
-📫 Reach me at [sharmaujjwal0712@gmail.com].
+- 🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una.
+- 🔍 Currently exploring Large Language Models (LLMs), Computer Vision, and AI Agents.  
+- 💬 Open to discussions on ML, AI, NLP, Deep Learning.
+- 📫 Reach me at [sharmaujjwal0712@gmail.com].
 
 ## 🛠️ Tech Stack  
 ### **Programming Languages:**
@@ -35,6 +35,7 @@
 
 ### 📝 **[English-to-German Translator](https://github.com/yourrepo)**  
 🔹 Transformer-based **language translation model**  
+🔹 Built entirely from scratch using Pytorch implementing the architecture proposed in the paper "Attention is all you need!"
 🔹 Achieved **BLEU Score: 53.58**  
 
 ---
