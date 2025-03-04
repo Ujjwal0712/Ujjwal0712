@@ -3,9 +3,9 @@
 🎯 I am a passionate Machine Learning and Computer Vision enthusiast, actively working on innovative projects spanning deep learning, NLP, and AI applications. I love building AI applications and models and exploring real-world applications of advanced ML techniques.
 
 ## 🚀 About Me  
-🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una
+🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una.
 🔍 Currently exploring Large Language Models (LLMs), Computer Vision, and AI Agents.  
-💬 Open to discussions on ML, AI, NLP, Deep Learning 
+💬 Open to discussions on ML, AI, NLP, Deep Learning.
 📫 Reach me at [sharmaujjwal0712@gmail.com].
 
 ## 🛠️ Tech Stack  
@@ -31,7 +31,7 @@
 
 ### 📷 **[Face Recognition-based Image Sorter]**  
 🔹 Uses **facial_recognition** to generate, extract and store facial embeddings from images.
-🔹 Groups similar faces together based on similarity index of facial embeddings
+🔹 Groups similar faces together based on similarity index of facial embeddings.
 
 ### 📝 **[English-to-German Translator](https://github.com/yourrepo)**  
 🔹 Transformer-based **language translation model**  
@@ -39,8 +39,7 @@
 
 ---
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-sharma/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/UjjwalSharma)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalsharma07/)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ujjwal0712)   
 
 ---
 
