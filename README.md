@@ -12,7 +12,6 @@
 ### **Programming Languages:**
 - Python
 - C++
-- JavaScript
 - Kotlin
   
 ### **Machine Learning & AI Frameworks:** 
