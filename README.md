@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ujjwal Sharma!  
 
-🎯 I am a passionate Machine Learning and Computer Vision enthusiast, actively working on innovative projects spanning deep learning, NLP, and AI applications. I love building AI applications and models and exploring real-world applications of advanced ML techniques.
+🎯 I am a passionate Machine Learning enthusiast, actively working on innovative projects spanning deep learning, NLP, and AI applications. I love building AI applications and models and exploring real-world applications of advanced ML techniques.
 
 ## 🚀 About Me  
 - 🎓 Pre-Final Year Student in Computer Science and Engineering at Indian Institute of Information Technology, Una.
